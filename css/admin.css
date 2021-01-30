@@ -1,0 +1,33 @@
+#media
+{
+    box-shadow: 0.4rem 0.4rem 1em hsl(48, 29%, 27%);
+    background-color: #b1afaf;
+    border: 0.3rem groove white;
+}
+
+#media img
+{
+    width:10vw;
+    box-shadow: 0.2rem 0.2rem 0.5rem rgb(226, 216, 216),-0.2rem -0.2rem 1em  rgb(226, 216, 216);
+}
+
+.b
+{
+    border:0.3rem groove hsl(46, 92%, 48%);
+}
+
+footer
+{
+    text-align: center;
+    height: 100px;
+    font-variant: small-caps;
+    padding-top: 30px;
+    clear: both;
+}
+
+button
+{
+    color:#fafafa;
+    border: 1px solid #fafafa;
+    background-color: #ffc107;
+}
